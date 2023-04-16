@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mario/Documents/PlatformIO/Projects/PlantSensor/build",
+  "command": "/usr/bin/gcc  -I/home/mario/Documents/PlatformIO/Projects/PlantSensor/.pio/libdeps/esp32dev/Unity/src -I/home/mario/Documents/PlatformIO/Projects/PlantSensor/build  -g   -Waddress -Waggregate-return -Wformat-nonliteral -Wformat-security -Wformat -Winit-self -Wmissing-declarations -Wmissing-include-dirs -Wno-multichar -Wno-parentheses -Wno-type-limits -Wno-unused-parameter -Wunreachable-code -Wwrite-strings -Wpointer-arith -Werror -Wall -std=c11 -o CMakeFiles/unity.dir/src/unity.c.o   -c /home/mario/Documents/PlatformIO/Projects/PlantSensor/.pio/libdeps/esp32dev/Unity/src/unity.c",
+  "file": "/home/mario/Documents/PlatformIO/Projects/PlantSensor/.pio/libdeps/esp32dev/Unity/src/unity.c"
+}
+]
