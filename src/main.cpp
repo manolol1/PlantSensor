@@ -3,12 +3,12 @@
 // define pin numbers
 const int SENSOR1 = 25;
 const int SENSOR2 = 26;
-const int LED1 = 0; // TODO: set correct PIN
-const int LED2 = 0; // TODO: set correct PIN
+const int LED1 = 5;
+const int LED2 = 18;
 
 // define threshold values for plant dryness - might need further testing and optimization
-const int PLANT1_THRESHOLD = 2300;
-const int PLANT2_THRESHOLD = 1900;
+const int PLANT1_THRESHOLD = 2300; //2300
+const int PLANT2_THRESHOLD = 2400; //2300
 
 void setup() {
   pinMode(LED1, OUTPUT);
@@ -50,5 +50,5 @@ void loop() {
   Serial.print("  ");
   Serial.println(isPlant2Dry);
 
-  delay(5000);
+  delay(1000);
 }
