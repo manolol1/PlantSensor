@@ -1,7 +1,0 @@
-/home/mario/Documents/PlatformIO/Projects/PlantSensor/build/CMakeFiles/install/strip.dir
-/home/mario/Documents/PlatformIO/Projects/PlantSensor/build/CMakeFiles/install.dir
-/home/mario/Documents/PlatformIO/Projects/PlantSensor/build/CMakeFiles/list_install_components.dir
-/home/mario/Documents/PlatformIO/Projects/PlantSensor/build/CMakeFiles/rebuild_cache.dir
-/home/mario/Documents/PlatformIO/Projects/PlantSensor/build/CMakeFiles/edit_cache.dir
-/home/mario/Documents/PlatformIO/Projects/PlantSensor/build/CMakeFiles/install/local.dir
-/home/mario/Documents/PlatformIO/Projects/PlantSensor/build/CMakeFiles/unity.dir
