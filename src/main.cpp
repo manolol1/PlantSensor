@@ -7,8 +7,8 @@ const int LED1 = 5;
 const int LED2 = 18;
 
 // define threshold values for plant dryness - might need further testing and optimization
-const int PLANT1_THRESHOLD = 2300;
-const int PLANT2_THRESHOLD = 2750;
+const int PLANT1_THRESHOLD = 3000;
+const int PLANT2_THRESHOLD = 2800;
 
 void setup() {
   pinMode(LED1, OUTPUT);
